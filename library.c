@@ -15,3 +15,4 @@ struct student{
     char bookName[50];
     char date[12];
 }s;
+FILE *fp;
