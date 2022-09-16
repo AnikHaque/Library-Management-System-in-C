@@ -7,3 +7,11 @@ struct books{
     char authorName[50];
     char date[12];
 }b;
+struct student{
+    int id;
+    char sName[50];
+    char sClass[50];
+    int sRoll;
+    char bookName[50];
+    char date[12];
+}s;
